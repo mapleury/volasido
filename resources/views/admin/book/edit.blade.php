@@ -1,7 +1,7 @@
 @extends('template.base')
 <!-- ini buat ngepanggil -->
 
-@section ('tittle', 'Update Data Buku')
+@section ('title', 'Update Data Buku')
 
 @section('content')
 
@@ -96,5 +96,7 @@
       </div>
     </div>
   </div>
+
+  
 
 @endsection
